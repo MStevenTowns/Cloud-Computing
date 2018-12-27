@@ -1,0 +1,26 @@
+25% - definitions & short response
+	he gives def, we give term
+	SR - looking for keyword in a sentence
+25% - math related
+	formulas used in notes
+30% - programming 
+	1-2 matlab 
+	1-2 MPI(prob just 1)
+	maybe 1 in homework language
+	minor points off for syntax, mostly wants logic
+20% - long answer/open response
+	specific tools/utilities
+		skype
+		bittorrent
+	paragraph form
+	either explain how something is working
+	or setup a process
+
+review on tuesday
+	based on questions
+midterm review notes?
+
+can't print the book
+can print stuff from web
+can print code
+

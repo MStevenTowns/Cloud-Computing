@@ -1,0 +1,2 @@
+gpuDeviceCount
+d = gpuDevice

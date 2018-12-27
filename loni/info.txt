@@ -1,0 +1,18 @@
+qb.loni.org
+uname: mst039
+pword: Thepasswordispassword1
+port 22
+
+modules will be diff
+openmpi
+
+add to .modules
+module load mvapich2
+
+Thepasswordispassword1
+
+need script to run job
+submit script using:
+qsub script
+
+
